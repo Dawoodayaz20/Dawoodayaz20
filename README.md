@@ -1,6 +1,6 @@
 👋 Hello, there!
 
-I am Dawood Ayaz, a web developer with more than a year of experience in the tech world specializing in creating web applications. I am an innovative problem-solver who is always looking for big challenges. I am also diving into AI Engineering.
+I am Dawood Ayaz, a Front-end web developer with more than a year of experience in the tech world specializing in creating web applications. I am an innovative problem-solver who is always looking for big challenges. I am also diving into AI Engineering.
 
 I look forward to working with a team of professionals who can enhance my skills.  
 
