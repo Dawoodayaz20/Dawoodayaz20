@@ -5,7 +5,7 @@ I am Dawood Ayaz, a Front-end web developer with more than 2 years of experience
 I look forward to working with a team of professionals who can enhance my skills.  
 
 Skills:
-HTML5, Tailwind CSS, JavaScript, REACT, Python.
+REACT, JavaScript, Tailwind CSS, HTML5, Python.
 
 <!---
 Dawoodayaz20/Dawoodayaz20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
