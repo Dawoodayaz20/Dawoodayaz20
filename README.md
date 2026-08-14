@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **Dawood Ayaz**, a passionate **Front-end Web Developer** with over **2 years of experience** crafting sleek and responsive web applications. I specialize in turning ideas into clean, user-friendly interfaces using **React**, **JavaScript**, and **Tailwind CSS**.
+I'm **Dawood Ayaz**, a passionate **Front-end Web Developer** with over **2 years of experience** crafting sleek and responsive web applications. I specialize in turning ideas into clean, user-friendly interfaces using **MERN Stack**, **NextJS**, **TypeScript**, and **Tailwind CSS**.
 
 I'm also diving deep into the world of **AI Engineering**, exploring how intelligent systems can enhance the web.
 
